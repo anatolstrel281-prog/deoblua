@@ -2,7 +2,7 @@
 -- Запускать ЭТОТ файл. Он сам скачает целевой скрипт, отдельно покажет
 -- ошибку компиляции и ошибку выполнения, и даст скопировать лог кнопкой COPY.
 
-local TARGET_URL = "https://raw.githubusercontent.com/anatolstrel281-prog/deoblua/refs/heads/main/patched.lua"
+local TARGET_URL = "https://raw.githubusercontent.com/anatolstrel281-prog/deoblua/refs/heads/main/final.lua"
 
 local Players = game:GetService("Players")
 local LogService = game:GetService("LogService")
